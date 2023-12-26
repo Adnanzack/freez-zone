@@ -1,0 +1,141 @@
+.header{
+    border: 0px;
+    height: 120px;
+    width: 100%;
+    background-color: #eeebec;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: sticky;
+}
+
+li{
+    display: inline-block;
+    margin: 40px;
+}
+
+
+
+.headpart{
+    margin-left: 200px;
+    font-family: italic;
+    margin-top: 40px;
+    color: #7a6666;
+}
+
+.bg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f8f8f8;
+    position: relative;
+}
+.product{
+    background-color: #eae7e8;
+    height: 250px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.content h1{
+    color: #7A6666;
+	font-size: 18px;
+	font-weight: normal;
+	line-height: 24px;
+	
+} 
+h2{
+    color: #E32A62;
+	font-family: magra-bold-webfont;
+	font-size: 30px;
+	font-weight: bolder;
+	line-height: 30px;
+}
+p{
+    color: #7a6666;
+	font-size: 14px;
+	font-weight: normal;
+	line-height: 24px;
+	text-align: left;
+	width: 560px;
+}
+
+
+.footer{
+    border: 0px;
+    height: 160px;
+    width: 100%;
+    background-color: #c8c10d;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer img{
+    margin-top: 5px 20px;
+}
+
+
+.mainbottom{
+    border: 0px;
+    height: 300px;
+    width: 100%;
+    background-color: #E32A62;
+    
+}
+.bottom{
+    display: flex;
+    justify-content: center;
+}
+.bottom img{
+    margin-left: 15px;
+    margin-top: 40px;
+}
+
+
+.box h3{
+    color: white;
+    margin-bottom: px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.line p{
+    text-align: center;
+    color: #ffffff;
+    margin-left: 480px;
+    margin-top: -10;
+}
+.imgcir{
+    border: solid 2px black;
+    height: 100px;
+    width: 100px;
+    border-radius: 100px;
+    position: absolute;
+    margin-left: 500px;
+    margin-top: 300px;
+    background-color: #e32a61a7;
+    
+    
+}
+.cr{
+    border: solid 2px black;
+    height: 100px;
+    width: 100px;
+    border-radius: 100px;
+    position: absolute;
+    margin-left: 490px;
+    margin-top: 310px;
+    background-color: #c8c20daa;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+}
